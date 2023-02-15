@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    
+
+    <title>Stock forecasting</title>
+</head>
+<body>
+    <header>
+        <h1>
+            Stock Forecasting
+        </h1>
+    </header>
+    <main>
+
+        <section id="input">
+    
+        <form action="/" method="GET" id="form-content">
+            
+                <ul>
+                    <li >
+                        <label for="stock-code">Stock code:</label>
+                        <input type="text" name="Stock code" id="stock-code" required>
+                        <div class="btn-group">
+                            <button>Submit</button>
+                        </div>
+                        
+                    </li>
+                    <li>
+                        <label for="s_date">Start Date:</label>
+                        <input type="date" name="start_date" id="s_date" required>
+                        <div class="btn-group">
+                            <button>Stock Price</button>
+                            <button>Indicators</button>
+                        </div>
+                    </li>
+                    <li>
+                        <label for="number">Number of days:</label>
+                        <input type="number" name="number" id="number" required>
+                        <div class="btn-group">
+                            <button>Forecast</button>
+                        </div>
+                       
+                    </li>
+                </ul>
+                </form> 
+            </section>
+            <section>
+
+            </section>
+       
+    </main>
+    
+</body>
+</html>
