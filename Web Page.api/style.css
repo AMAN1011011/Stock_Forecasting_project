@@ -28,7 +28,8 @@ header h1{
     text-align: center;
     font-size: 45px;
     padding: 20px;
-    background-color:rgb(87, 20, 255);
+/*     background-color:rgb(87, 20, 255); */
+    background: linear-gradient(45deg, rgb(40, 11, 113), rgb(87, 20, 255), rgb(40, 11, 113));
     color: rgb(255, 255, 255);
     text-shadow: 4px 4px 3px rgba(22, 22, 22, 0.4); 
     text-transform: uppercase;
