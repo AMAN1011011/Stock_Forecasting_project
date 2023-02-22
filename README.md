@@ -23,8 +23,9 @@ Time-series prediction is a common technique widely used in many real-world appl
 ## Contributors
 
 - [Aman Verma](https://github.com/AMAN1011011)
-- [Ayush Kumar](https://github.com/AMAN1011011)
-- [Devendra Kumar Sahu](https://github.com/AMAN1011011)
-- [Sujal Mahalaha](https://github.com/AMAN1011011)
-- [Sulochan Mahajan](https://github.com/AMAN1011011)
+- [Sulochan Mahajan](https://github.com/SulochanMahajan)
+- [Devendra Kumar Sahu](https://github.com/DevendraKumarSahu09)
+- [Ayush Kumar]
+- [Sujal Mahalaha]
+
 
